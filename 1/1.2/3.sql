@@ -1,0 +1,1 @@
+SELECT title AS Название, author as Автор FROM book;
